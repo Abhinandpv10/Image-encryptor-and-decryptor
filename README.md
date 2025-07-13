@@ -20,7 +20,7 @@ A simple and interactive Python GUI application to **encrypt and decrypt images*
 
 | Original Image | Encrypted Output |
 |----------------|------------------|
-| ![Original](assets/original_sample.png) | ![Encrypted](assets/encrypted_sample.png) |
+| ![Original](assets/original_sample.jpg) | ![Encrypted](assets/encrypted_sample.png) |
 
 ---
 
