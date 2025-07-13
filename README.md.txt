@@ -25,7 +25,7 @@ A simple and interactive Python GUI to **encrypt and decrypt images** using **XO
 
 | Original | Encrypted |
 |----------|-----------|
-| ![orig](assets/original_sample.png) | ![enc](assets/encrypted_sample.png) |
+| ![orig](assets/original_sample.jpg) | ![enc](assets/encrypted_sample.jpg) |
 
 
 ---
